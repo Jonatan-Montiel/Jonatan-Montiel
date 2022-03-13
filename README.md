@@ -8,7 +8,8 @@
 - Heramientas que se utilizar: **Microsoft Project, GranttProject, Cisco Packet Tracer, GNS3, Eclipse, Vitualizadores (Virtualbox,r VMware, Hyper-V, ESXI), Balsamiq Wireframes, NetBeans, ArgoUML**
 
 <h3 align="left">Certificaciones:</h3>
-- Scrum Fundamental Certified [https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JonatanJavierMontielMartinez-854390.pdf](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JonatanJavierMontielMartinez-854390.pdf)
+
+- Scrum Fundamental Certified **https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JonatanJavierMontielMartinez-854390.pdf**
 
 - Six Sigma Yellow Belt Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-JonatanJavierMontielMartinez-834027.pdf**
 
