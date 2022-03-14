@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonatan Montiel</h1>
 <h3 align="center">Estudiante de ultimo año en Tecnologías de la Información</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonatan-montiel&label=Profile%20views&color=25b195&style=flat" alt="jonatan-montiel" /> </p>
-
 - Lo que eh aprendido: **Web Services(SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), HTML5, Css3, Bootstrap, Materialize Css .NET, C#, Javascript, Jquery, Java, Angular, Firebase, TypeScript**
 
 - Heramientas que se utilizar: **Microsoft Project, GranttProject, Cisco Packet Tracer, GNS3, Eclipse, Vitualizadores (Virtualbox,r VMware, Hyper-V, ESXI), Balsamiq Wireframes, NetBeans, ArgoUML**
