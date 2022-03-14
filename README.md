@@ -3,7 +3,7 @@
 
 - Manejo de: **Web Services(SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), HTML5, Css3, Bootstrap, Materialize Css, .NET, C#, Javascript, Jquery, Java, Angular, Firebase, TypeScript**
 
-- Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, Eclipse, Vitualizadores (Virtualbox,r VMware, Hyper-V, ESXI), Balsamiq Wireframes, NetBeans, ArgoUML**
+- Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, Eclipse, Vitualizadores (Virtualbox, VMware, Hyper-V, ESXI), Balsamiq Wireframes, NetBeans, ArgoUML**
 
 <h3 align="left">Certificaciones:</h3>
 
