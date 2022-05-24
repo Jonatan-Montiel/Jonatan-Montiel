@@ -11,9 +11,9 @@
 
 - Six Sigma Yellow Belt Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/SixSigmaYellowBelt-JonatanJavierMontielMartinez-834027.pdf**
 
-- Cloud Computing Cetified - F9Y N48 S8J **https://learndigital.withgoogle.com/activate/validate-certificate-code**
+- Cloud Computing Certified - F9Y N48 S8J **https://learndigital.withgoogle.com/activate/validate-certificate-code**
 
-- Protege tu negocio: Ciberseguridad en el Teletrabajo Cetified - 5U7 J22 GQ9 **https://learndigital.withgoogle.com/activate/validate-certificate-code**
+- Protege tu negocio: Ciberseguridad en el Teletrabajo Certified - 5U7 J22 GQ9 **https://learndigital.withgoogle.com/activate/validate-certificate-code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
