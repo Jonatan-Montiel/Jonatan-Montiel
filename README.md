@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonatan Montiel</h1>
 <h3 align="center">Estudiante de ultimo año en Tecnologías de la Información</h3>
 
-- Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json.
-Dearrollo web móvil.
-Planeación estatégica en tecnologías de la información.
-Seguridad perimetral en redes.
-Ingeniería de software.
-Administración de servidores y centros de datos.
-Virtualización de infraestructura tecnológica.
-Administración de infraestructura tecnológica.
-Diseño de interfaces de gran impacto (UX / UI).
-Administración de proyectos informáticos.
-Bases de datos.
-Green Computing.**
+- Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json**
 
 - Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, sqlDeveloper, Eclipse, NetBeans, ArgoUML, Balsamiq Wireframes, iReport, Visual Studio, VS Code, Virtualizadores (Virtualbox, VMware, Hyper-V, ESXI)**
 
