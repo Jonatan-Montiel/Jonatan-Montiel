@@ -15,7 +15,20 @@ Soy Jonatan Montiel, estudiante de TI y desarrollador web, estoy enfocado en la 
 
 - Cloud Computing Certified - F9Y N48 S8J **https://learndigital.withgoogle.com/activate/validate-certificate-code**
 
-- Protege tu negocio: Ciberseguridad en el Teletrabajo Certified - 5U7 J22 GQ9 **https://learndigital.withgoogle.com/activate/validate-certificate-code**
+- Ciberseguridad en el Teletrabajo Certified - 5U7 J22 GQ9 **https://learndigital.withgoogle.com/activate/validate-certificate-code**
+
+-  Corporate Sales Fundamentals Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/CorporateSalesFundamentals-JonatanJavierMontielMartinez-603434.pdf**
+
+- Negotiation Associate Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/NegotiationAssociate-JonatanJavierMontielMartinez-590598.pdf**
+
+- Marketing Research Fundamentals Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/MarketingResearchFundamentals-JonatanJavierMontielMartinez-603287.pdf**
+
+- Digital Marketing Fundamentals Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/DigitalMarketingFundamentals-JonatanJavierMontielMartinez-607382.pdf**
+
+- Marketing Strategy Fundamentals Certified **http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificate/MarketingStrategyFundamentals-JonatanJavierMontielMartinez-605311.pdf**
+
+- Habilidades Digitales Certified **https://santander.skills.anuies.mx/mod/customcert/verify_certificate.php?contextid=219837&code=mH6yCyGgtB&qrcode=1**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
