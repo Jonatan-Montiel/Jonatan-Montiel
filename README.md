@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jonatan Montiel</h1>
 <h3 align="center">Estudiante de ultimo año en Tecnologías de la Información</h3>
 <h3 align="center">
-Soy Jonatan Montiel, estudiante de TI, estoy enfocado en la creación de web apps, y software para quien necesite 
+Soy Jonatan Montiel, estudiante de TI, estoy enfocado en la creación de web apps y software para quien necesite 
 integrarse a la era de la tecnología y formar parte del internet, este proceso a través de las tecnologías actuales 
 implementando una experiencia de usuario intuitiva, atractiva y sencilla de utilizar esto mediante diferentes herramientas 
 en tendencia.</h3>
 
-- Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json**
+- Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json, Android Java y Xamarin, Redes Avanzadas**
 
-- Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, sqlDeveloper, Eclipse, NetBeans, ArgoUML, Balsamiq Wireframes, iReport, Visual Studio, VS Code, Virtualizadores (Virtualbox, VMware, Hyper-V, ESXI)**
+- Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, sqlDeveloper, Eclipse, NetBeans, ArgoUML, Balsamiq Wireframes, iReport, Visual Studio, VS Code, Virtualizadores (Virtualbox, VMware, Hyper-V, ESXI), MongoDB Atlas, Android Studio**
 
 <h3 align="left">Certificaciones:</h3>
+
+- EC1061 Liderazgo efectivo en las organizaciones ****
 
 - Scrum Fundamental Certified **https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-JonatanJavierMontielMartinez-854390.pdf**
 
