@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jonatan Montiel</h1>
-<h3 align="center">Estudiante de ultimo año en Tecnologías de la Información</h3>
+<h3 align="center">Egresado de Tecnologías de la Información</h3>
 <h3 align="center">
-Soy Jonatan Montiel, estudiante de TI, estoy enfocado en la creación de web apps y software para quien necesite 
-integrarse a la era de la tecnología y formar parte del internet, este proceso a través de las tecnologías actuales 
-implementando una experiencia de usuario intuitiva, atractiva y sencilla de utilizar esto mediante diferentes herramientas 
-en tendencia.</h3>
+Soy Jonatan Montiel, Tecnólogo recién egresado y mi área de enfoque esta en el desarrollo Frontend, tanto web como 
+android pero cuento con conocimentos en otras áreas de TI que me permiten crear e implementar soluciones completas en 
+la nube con el fin de proporcionar una integración entre diferentes tecnologías actuales.</h3>
 
-- Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json, Android Java y Xamarin, Redes Avanzadas**
+- Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json, Android Java y Xamarin, Swift, Redes Avanzadas, Microsoft Azure, Google Cloud Platform, AWS**
 
-- Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, sqlDeveloper, Eclipse, NetBeans, ArgoUML, Balsamiq Wireframes, iReport, Visual Studio, VS Code, Virtualizadores (Virtualbox, VMware, Hyper-V, ESXI), MongoDB Atlas, Android Studio**
+- Heramientas que se utilizar: **Microsoft Project, GanttProject, Cisco Packet Tracer, GNS3, sqlDeveloper, Eclipse, NetBeans, ArgoUML, Balsamiq Wireframes, iReport, Visual Studio, VS Code, Virtualizadores (Virtualbox, VMware, Hyper-V, ESXI), MongoDB Atlas, Android Studio, XCODE**
 
 <h3 align="left">Certificaciones:</h3>
 
