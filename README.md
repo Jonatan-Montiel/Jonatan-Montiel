@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonatan Montiel</h1>
 <h3 align="center">Egresado de Tecnologías de la Información</h3>
 <h3 align="center">
-Soy Jonatan Montiel, Desarrollador, capaz de efectuar actividades Full Stack debido a los conocimientos en otras áreas de TI con los que cuento, ya que me permiten crear e implementar soluciones completas en la nube con el fin de proporcionar una integración entre diferentes tecnologías actuales.</h3>
+Soy Jonatan Montiel, Desarrollador capaz de efectuar actividades Full Stack debido a los conocimientos en otras áreas de TI con los que cuento, ya que me permiten crear e implementar soluciones completas en la nube con el fin de proporcionar una integración entre diferentes tecnologías actuales.</h3>
 
 - Manejo de: **Servicios web (SOAP, RESTFULL), Node.js, Four js GENERO, PL/SQL, SQL Oracle, MongoDB, Adobe: (Illustrator, Photoshop, InDesign, XD), Web (Html5, Css3, Bootstrap, materialize css, Angular), firebase .NET, C#, Javascript, Jquery, Java, Json, Android Java y Xamarin, Swift, Redes Avanzadas, Microsoft Azure, Google Cloud Platform, AWS**
 
